@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\bin\Debug\net6.0\Alagorithm.exe
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\bin\Debug\net6.0\Alagorithm.deps.json
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\bin\Debug\net6.0\Alagorithm.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\bin\Debug\net6.0\Alagorithm.dll
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\bin\Debug\net6.0\Alagorithm.pdb
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.dll
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\refint\Alagorithm.dll
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.pdb
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\Alagorithm.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\Customize\Alagorithm\Alagorithm\obj\Debug\net6.0\ref\Alagorithm.dll
