@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\bin\Debug\net6.0\Alogorithm9.exe
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\bin\Debug\net6.0\Alogorithm9.deps.json
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\bin\Debug\net6.0\Alogorithm9.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\bin\Debug\net6.0\Alogorithm9.dll
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\bin\Debug\net6.0\Alogorithm9.pdb
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.dll
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\refint\Alogorithm9.dll
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.pdb
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\Alogorithm9.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\Search and Sort Algorithms\Alogorithm9\Alogorithm9\obj\Debug\net6.0\ref\Alogorithm9.dll
