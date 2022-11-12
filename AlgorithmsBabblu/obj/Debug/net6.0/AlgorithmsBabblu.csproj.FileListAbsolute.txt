@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\bin\Debug\net6.0\AlgorithmsBabblu.exe
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\bin\Debug\net6.0\AlgorithmsBabblu.deps.json
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\bin\Debug\net6.0\AlgorithmsBabblu.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\bin\Debug\net6.0\AlgorithmsBabblu.dll
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\bin\Debug\net6.0\AlgorithmsBabblu.pdb
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.dll
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\refint\AlgorithmsBabblu.dll
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.pdb
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\AlgorithmsBabblu.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\BabbluSort\AlgorithmsBabblu\AlgorithmsBabblu\obj\Debug\net6.0\ref\AlgorithmsBabblu.dll
