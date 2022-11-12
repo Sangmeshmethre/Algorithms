@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\bin\Debug\net6.0\AlgorithmInsert.exe
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\bin\Debug\net6.0\AlgorithmInsert.deps.json
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\bin\Debug\net6.0\AlgorithmInsert.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\bin\Debug\net6.0\AlgorithmInsert.dll
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\bin\Debug\net6.0\AlgorithmInsert.pdb
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.dll
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\refint\AlgorithmInsert.dll
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.pdb
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\AlgorithmInsert.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\InsertioSort\AlgorithmInsert\AlgorithmInsert\obj\Debug\net6.0\ref\AlgorithmInsert.dll
