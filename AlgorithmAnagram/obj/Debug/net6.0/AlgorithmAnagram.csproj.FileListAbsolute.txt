@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\bin\Debug\net6.0\AlgorithmAnagram.exe
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\bin\Debug\net6.0\AlgorithmAnagram.deps.json
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\bin\Debug\net6.0\AlgorithmAnagram.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\bin\Debug\net6.0\AlgorithmAnagram.dll
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\bin\Debug\net6.0\AlgorithmAnagram.pdb
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.dll
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\refint\AlgorithmAnagram.dll
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.pdb
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\AlgorithmAnagram.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\Anagram\AlgorithmAnagram\AlgorithmAnagram\obj\Debug\net6.0\ref\AlgorithmAnagram.dll
