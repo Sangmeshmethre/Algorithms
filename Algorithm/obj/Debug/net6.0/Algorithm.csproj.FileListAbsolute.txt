@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.exe
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.dll
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.dll
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\MergeSort\Algorithm\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
