@@ -1,0 +1,15 @@
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\bin\Debug\net6.0\Alogorithm.exe
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\bin\Debug\net6.0\Alogorithm.deps.json
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\bin\Debug\net6.0\Alogorithm.runtimeconfig.json
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\bin\Debug\net6.0\Alogorithm.dll
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\bin\Debug\net6.0\Alogorithm.pdb
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.csproj.AssemblyReference.cache
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.AssemblyInfoInputs.cache
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.AssemblyInfo.cs
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.csproj.CoreCompileInputs.cache
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.dll
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\refint\Alogorithm.dll
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.pdb
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\Alogorithm.genruntimeconfig.cache
+C:\LFP-195 Batch\Algorithms\BinarySearchWord\Alogorithm\Alogorithm\obj\Debug\net6.0\ref\Alogorithm.dll
